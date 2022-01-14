@@ -19,3 +19,6 @@ This is the change made to pull
 1. one
 2. two
 3. three
+
+[Lab Report 1](lab-report-1-week-2.html)
+[Lab Report 1](https://nseyoum.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
